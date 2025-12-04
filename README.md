@@ -8,18 +8,17 @@ v2.9
 1、账号登录-默认账号登录直接点击授权免费登录 
  ![Image text](https://github.com/lemonhar/lem/blob/main/%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/%E5%9B%BE%E7%89%871.png)
 2、配置参数设置
-
-
+ ![Image text](https://github.com/lemonhar/lem/blob/main/%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/%E5%9B%BE%E7%89%872.png)
 3、开始自动抢福袋-仅点击 自动流程其他不用管
-
+ ![Image text](https://github.com/lemonhar/lem/blob/main/%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/%E5%9B%BE%E7%89%873.png)
 4、获取结果查看
-
+ ![Image text](https://github.com/lemonhar/lem/blob/main/%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/%E5%9B%BE%E7%89%874.png)
 
 自动评论
 5、采集博主视频
-
+ ![Image text](https://github.com/lemonhar/lem/blob/main/%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/%E5%9B%BE%E7%89%875.png)
 6、视频自动评论
-
+ ![Image text](https://github.com/lemonhar/lem/blob/main/%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/%E5%9B%BE%E7%89%876.png)
 
 
 
