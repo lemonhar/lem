@@ -7,6 +7,7 @@ V2.11 更新包
 新修改福袋获取逻辑
 
 数据脱敏处理
+
 V2.10 更新说明
 
 调整页面
@@ -27,7 +28,7 @@ v2.9
 
 使用说明-抖音福袋获取
 
-1、账号登录-默认账号登录--直接点击授权---免费登录 
+1、账号登录-默认账号登录--直接点击授权-------------------------免费登录 ------------------------
  ![Image text](https://github.com/lemonhar/lem/blob/main/%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/%E5%9B%BE%E7%89%871.png)
 2、配置参数设置
  ![Image text](https://github.com/lemonhar/lem/blob/main/%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/%E5%9B%BE%E7%89%872.png)
