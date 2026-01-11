@@ -1,5 +1,21 @@
 V2.11 更新包
 
+支持多开
+
+ ![Image text](https://github.com/lemonhar/lem/blob/main/%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/%E5%9B%BE%E7%89%877.png)
+
+静默模式开启后不影响鼠标使用
+
+ ![Image text](https://github.com/lemonhar/lem/blob/main/%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/%E5%9B%BE%E7%89%878.png)
+
+
+服务端修改
+
+ ![Image text](https://github.com/lemonhar/lem/blob/main/%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/%E5%9B%BE%E7%89%879.png)
+ 
+
+V2.11 更新包
+
 抖音获取福袋规则改变。
 
 重新修改获取规则
