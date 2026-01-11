@@ -2,16 +2,16 @@ V2.11 更新包
 
 支持多开
 
- ![Image text](https://github.com/lemonhar/lem/blob/main/%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/%E5%9B%BE%E7%89%877.png)
+ ![Image text](https://github.com/lemonhar/lem/blob/main/%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/%E5%9B%BE%E7%89%877.jpg)
 
 静默模式开启后不影响鼠标使用
 
- ![Image text](https://github.com/lemonhar/lem/blob/main/%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/%E5%9B%BE%E7%89%878.png)
+ ![Image text](https://github.com/lemonhar/lem/blob/main/%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/%E5%9B%BE%E7%89%878.jpg)
 
 
 服务端修改
 
- ![Image text](https://github.com/lemonhar/lem/blob/main/%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/%E5%9B%BE%E7%89%879.png)
+ ![Image text](https://github.com/lemonhar/lem/blob/main/%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/%E5%9B%BE%E7%89%879.jpg)
  
 
 V2.11 更新包
