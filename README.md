@@ -1,17 +1,21 @@
 V2.11 更新包
 
+新增小红书主题评论  修改都应评论规则
+
+抢福袋操作---优化自动获取流程    依旧 自动获取 即可   
+
 支持多开
 
  ![Image text](https://github.com/lemonhar/lem/blob/main/%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/7.jpg)
 
 静默模式开启后不影响鼠标使用
 
- ![Image text](https://github.com/lemonhar/lem/blob/main/%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/8.jpg)
+ ![Image text](https://github.com/lemonhar/lem/blob/main/%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/9.jpg)
 
 
 服务端修改
 
- ![Image text](https://github.com/lemonhar/lem/blob/main/%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/9.jpg)
+ ![Image text](https://github.com/lemonhar/lem/blob/main/%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/8.jpg)
  
 
 V2.11 更新包
