@@ -2,7 +2,7 @@
 
 V3.0 更新优化相关更多功能
 
-操作说明 联系我 lemonharve@outlook.com  自动回复相关最新操作
+ ![Image text](https://github.com/lemonhar/lem/blob/main/%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/8.jpg)
 
 
 
@@ -15,19 +15,6 @@ V2.11 更新包
 新增小红书主题评论  修改都应评论规则
 
 抢福袋操作---优化自动获取流程    依旧 自动获取 即可   
-
-支持多开
-
- ![Image text](https://github.com/lemonhar/lem/blob/main/%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/7.jpg)
-
-静默模式开启后不影响鼠标使用
-
- ![Image text](https://github.com/lemonhar/lem/blob/main/%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/9.jpg)
-
-
-服务端修改
-
- ![Image text](https://github.com/lemonhar/lem/blob/main/%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/8.jpg)
  
 
 V2.11 更新包
@@ -57,39 +44,8 @@ v2.9
 软件前期集成薅羊毛功能，是持续更新的动力。
 
 目前仅支持抖音评论采集，自动回复功能
-
-使用说明-抖音福袋获取
-
-1、账号登录-默认账号登录--直接点击授权-------------------------免费登录 ------------------------
-
- ![Image text](https://github.com/lemonhar/lem/blob/main/%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/%E5%9B%BE%E7%89%871.png)
  
-2、配置参数设置
-
- ![Image text](https://github.com/lemonhar/lem/blob/main/%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/%E5%9B%BE%E7%89%872.png)
  
-3、开始自动抢福袋-仅点击 自动流程其他不用管
-
- ![Image text](https://github.com/lemonhar/lem/blob/main/%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/%E5%9B%BE%E7%89%873.png)
- 
-4、获取结果查看
-
- ![Image text](https://github.com/lemonhar/lem/blob/main/%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/%E5%9B%BE%E7%89%874.png)
-
-自动评论
-
-5、采集博主视频
-
- ![Image text](https://github.com/lemonhar/lem/blob/main/%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/%E5%9B%BE%E7%89%875.png)
- 
-6、视频自动评论
-
- ![Image text](https://github.com/lemonhar/lem/blob/main/%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/%E5%9B%BE%E7%89%876.png)
-
-
-
-后期版本持续更新...
-
 软件交流学习使用，切勿违规评论，售卖
 
 如果问题可邮箱交流 lemonharve@outlook.com
