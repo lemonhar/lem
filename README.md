@@ -2,7 +2,7 @@
 
 V3.0 更新优化相关更多功能
 
- ![Image text](https://github.com/lemonhar/lem/blob/main/%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/8.jpg)
+ ![Image text](https://github.com/lemonhar/lem/blob/main/%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E.jpg)
 
 
 
